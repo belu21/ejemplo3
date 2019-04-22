@@ -11,6 +11,7 @@
     }
 
 <center>
-## Ejemplo de Gif
-    ![leon](leon.gif)
+## Ejemplo gif
+
+![leon](leon.gif)
 </center>
