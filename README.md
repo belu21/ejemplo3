@@ -10,5 +10,7 @@
         }
     }
 
+<center>
+## Ejemplo de Gif
 ![leon](leon.gif)
-
+</center>
