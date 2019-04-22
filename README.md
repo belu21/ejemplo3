@@ -11,6 +11,7 @@
     }
 
 <center>
+
 ## Ejemplo gif
 
 ![leon](leon.gif)
